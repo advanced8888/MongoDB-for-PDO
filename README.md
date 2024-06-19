@@ -12,9 +12,9 @@
         <li>支援命名參數綁定</li>
     </ul>
 
-    <h2>使用範例</h2>
+ <h2>使用範例</h2>
 
-    <h3>建立連接</h3>
+  <h3>建立連接</h3>
     <pre><code>$dsn = 'mongodb://localhost:27017';
 $dbname = 'mydatabase';
 $mongo = new MongoDB_PDO($dsn, $dbname);</code></pre>
