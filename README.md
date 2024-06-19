@@ -37,8 +37,8 @@ $stmt->execute(['age' => 18]);</code></pre>
         <li>將 <code>MongoDB_PDO.php</code> 檔案包含到您的專案中。</li>
     </ol>
 
-    <h2>貢獻</h2>
+ <h2>貢獻</h2>
     <p>歡迎對此專案提出問題和合併請求。如果您發現任何錯誤或有改進的建議,請隨時提出。</p>
 
-    <h2>致謝</h2>
+ <h2>致謝</h2>
     <p>此專案採用 Claude 和 ChatGPT 協力完成。並由 Mark 測試及部分修正!</p>
